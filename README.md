@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Samarbeer 👋
 
-<!--
-**SamarBeer/SamarBeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer with hands-on experience in React, React Native, Firebase, and modern web technologies.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- JavaScript, HTML, CSS, SQL
+- React, React Native, Next.js
+- Firebase (Auth, Firestore)
+- Git, GitHub, Expo, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Lava Pizza YYC – Full-stack mobile food ordering app
+- React Shopping List – API-based web application
+- Portfolio Website
+
+### 📍 Location
+Calgary, AB
+
+Currently open to **Junior / Full-Stack Software Developer** opportunities.
